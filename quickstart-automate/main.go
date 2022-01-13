@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, Cloud Gurus!")
+  fmt.Println("Hello, World! This is demo trigger.")
 }
